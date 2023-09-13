@@ -3,11 +3,11 @@
 Готов к ответственным проектам. Не пугают сложные задачи.
 
 **Имею практический опыт:**
-Atlassian Jira, Яндекс.Трекер, Docker, Git, GitHub, MySQL, PostgreSQL, Java, Intellij IDEA, Postman, HTML, CSS, Selenium, Selenide, Gradle, Maven, JUnit, Lombok, Allure, DBeaver
+Atlassian Jira, Яндекс.Трекер, Docker, Git, GitHub, Git Bash, Intellij IDEA, Postman, HTML, CSS, JSON, XML, Selenium, Selenide, Gradle, Maven, JUnit, Lombok, Allure, DBeaver, DevTools, Charles Proxy, Zephyr
 
 # Опыт работы
 
-Июль 2020 — по настоящее время
+Июль 2020 — сентябрь 2023
 
 **Яндекс** - yandex.ru
 
@@ -84,6 +84,10 @@ Atlassian Jira, Яндекс.Трекер, Docker, Git, GitHub, MySQL, PostgreSQ
 
 </details>
 
+[Исследовательское тестирование сайта merchshop.mguu.ru в рамках тестового задания](https://docs.google.com/spreadsheets/d/1rkjgjReFh4dkAm1y0aYV8ev44Slaaip9hzDmk_Hn6ac/edit?usp=sharing)
+
+Обнаружено 30 багов, заведены баг-репорты
+
 # Диплом о профессиональной переподготовке "Тестировщик ПО"
 [Диплом](data/diplom/1.jpg)
 
@@ -103,4 +107,4 @@ Atlassian Jira, Яндекс.Трекер, Docker, Git, GitHub, MySQL, PostgreSQ
 # Контакты
 Email: w4ssel@gmail.com
 
-Telegram: https://t.me/likeaboss0101
+Telegram: https://t.me/w4ssel
